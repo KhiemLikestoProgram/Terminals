@@ -10,3 +10,4 @@ Read the first and second line.
 # I'm too lazy but
 - Python
 - Batch (install run.bat)
+> Reminder: Do not install this, this is alpha (and also i'm just a beginner)
