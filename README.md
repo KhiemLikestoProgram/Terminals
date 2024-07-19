@@ -2,7 +2,6 @@
 A new respitory for CLI applications (because GUI is too much for my brain to handle)
 
 # About
-Read my github page :)
 
 # I'm too lazy but here's the languages:
 - Python
